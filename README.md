@@ -20,7 +20,7 @@
 Pada pertemuan 5 bahasa pemograman, saya diberi soal untuk latihan oleh Dosen untuk membuat Aplikasi Biodata dengan python (Seperti gambar di bawah ini:)
 ![image](https://user-images.githubusercontent.com/73059731/98119094-b8fb9300-1ede-11eb-9d32-9bda95c609df.png)
 Saat ini saya akan menjelaskan hasil dari tugas tersebut. <br>
-Berikut *source code* nya atau klik berikut ([latihan 5](tugas5.py)): <br>
+Berikut *source code* nya atau klik berikut ([latihan 5](biodata.py)): <br>
 ``` python
 print " =============================="
 print "   Latihan Biodata Syahru      "
