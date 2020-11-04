@@ -99,7 +99,7 @@ Hasil dari output tersebut seperti berikut : <br>
 
 ### Pertemuan 6 - lab 1
 
-Pada halaman ini (Tugas pertemuan 6 - lab 1) Saya di berikan tugas oleh Dosen yaitu mempelajari Operator Aritmatika menggunakan bahasa pemograman python. Berikut source yang di berikan oleh Dosen [lab 1](lab1.py)
+Pada halaman ini Saya di berikan tugas oleh Dosen yaitu mempelajari Operator Aritmatika menggunakan bahasa pemograman python. Berikut source yang di berikan oleh Dosen [lab 1](lab1.py)
 ![image](https://user-images.githubusercontent.com/73059731/98128529-9ec7b200-1eea-11eb-9278-66eed691f78d.png)
 ``` python
 #Penggunaan End
