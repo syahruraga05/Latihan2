@@ -1,5 +1,5 @@
 #LatihanPython
-# Tugas Ini Untuk Melengkapi Pertemuan 6 <br>
+# Tugas Ini Untuk Melengkapi Pertemuan 5 & 6 <br>
 
 **Nama : Syahru Raga Ramdhani** <br>
 **Nim : 312010354** <br>
