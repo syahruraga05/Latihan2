@@ -178,7 +178,6 @@ Hasil dari syntax / source code diatas adalah seperti berikut iniL: <br>
 ### Pertemuan 6 - lab 1-2 
 * String format <br>
 String formatting atau pemformatan string memungkinkan kita menyuntikkan item kedalam string daripada kita mencoba menggabungkan string menggunakan koma atau string concatenation.<br>
-
 Penggunaan pada source yang di berikan Dosen sebagai berikut : <br>
 ``` python
 # string format 1
@@ -209,9 +208,7 @@ print('{0:>3}{1:>16})'.format(10, 10 ** 10))
 ```
 <br>
 Saat ini saya akan menjelaskan satu persatu dari syntax yang diberikan oleh Dosen <br>
-Tugas yang di berikan oleh Dosen adalah seperti gambar dibawah ini atau bisa di temukan dengan link berikut :[lab 1-2](lab1-2.py) <br>
-![image](https://user-images.githubusercontent.com/73059731/98130145-85276a00-1eec-11eb-9a34-0866121c478c.png)
-
+Tugas yang di berikan oleh Dosen bisa di temukan dengan link berikut ([lab 1-2](lab1-2.py))
 1. **String Format 1** <br><br>
 Pada syntax / source code string format 1 akan menampilkan output berupa 2 outputan. <br>
 Yang pertama (sebelah kiri) akan menampilkan angka urut dari angka 0 hingga 10, sedangkan sebelah kanan akan menampilkan Oprasi Aritmatika Pangkat. <br>
