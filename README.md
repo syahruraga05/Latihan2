@@ -22,21 +22,26 @@ Pada pertemuan 5 bahasa pemograman, saya diberi soal untuk latihan oleh Dosen un
 Saat ini saya akan menjelaskan hasil dari tugas tersebut. <br>
 Berikut *source code* nya atau klik berikut ([latihan 5](biodata.py)): <br>
 ``` python
-print " =============================="
-print "   Latihan Biodata Syahru      "
-print " =============================="
+print ("  ====================================")
+print ("       Latihan Biodata Syahru       ")
+print ("  ====================================")
 #variabel
-nama= raw_input ("Masukan Nama Lengkap Anda: ")
-panggilan= raw_input ("Masukan Nim Anda: ")
-ttl= raw_input ("Masukan Tempat Tanggal Lahir Anda: ")
-tl= raw_input ("Masukan Umur Anda: ")
-telepone= raw_input ("Masukan No Telpon Anda: ")
-alamat= raw_input ("Masukan Alamat Anda: ")
+namalengkap   = input ("Masukan Nama Lengkap Anda: ")
+panggilan     = input ("Masukan Nama Panggilan: ")
+nim           = input ("Masukan Nim Anda: ")
+ttl           = input ("Masukan Tempat Tanggal Lahir Anda: ")
+umur          = input ("Masukan umur Anda: ")
+telepone      = input ("Masukan No Telpon Anda: ")
+alamat        = input ("Masukan Alamat Anda: ")
 
 #Menampilkan Inputan User
-print "\n Assalamu'alaikum Wr.Wb. "
-print "Let me introduce my self My name is",nama,"but you can call me",panggilan,".My NIM is",nim,"I was born in",ttl,"and I am",tl,"years old. I am very glad if you want to invite my house in",alamat,".So, don't forget to call me before with the number",telepone,
-print "\n Terimakasih Jangan Lupa Semangat"
+print ("\nAssalamu'alaikum Wr.Wb.")
+print ("Let me introduce my self. My name is",namalengkap,\
+", but you can call me",panggilan,". My NIM is ",nim,\
+". I was born in",ttl,\
+"and I am ",umur,"years old",\
+"i am very glad if you want to invite my house in",alamat,\
+". So, don't forget to call me before with the number",telepone,".")
 ```
 
 * Berikut penjelasan :<br>
