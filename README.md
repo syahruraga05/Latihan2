@@ -1,6 +1,5 @@
 #LatihanPython
 # Tugas Ini Untuk Melengkapi Pertemuan 6 <br>
-## Dan Menjelaskan Project <br>
 
 **Nama : Syahru Raga Ramdhani** <br>
 **Nim : 312010354** <br>
