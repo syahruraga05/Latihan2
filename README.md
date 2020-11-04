@@ -59,7 +59,7 @@ print(4646)
 * Untuk source code berikutnya adalah inputan atau membuat variable. Seperti syntax dibawah ini:
 
 ``` python
-nama= raw_input()
+nama= input()
 ```
 Keterangan : <br>
 1. Variable adalah sebuah wadah penyimpanan data pada program yang akan digunakan selama program itu berjalan. Yang berfungsi sebagai variable dalam source code diatas adalah **fullname** . <br>
@@ -67,7 +67,7 @@ Keterangan : <br>
 2. Fungsi **input()** adalah untuk memasukan nilai dar layar console di command prompt, lalu kemudian mengembalikan nilai saat kita menekan tombol enter *(newline)* <br>
 ![image](https://user-images.githubusercontent.com/73059731/98124800-3d9ddf80-1ee6-11eb-89c6-8ef96155c72b.png) <br>
 Pada gambar diatas, hasil dari inputan tersebut berwarna *putih* <br>
-* Untuk memasukan printah lain seperti *Nama, NIM, Tempat Lahir, Umur, No Telpon,* mengikuti perintah yang sama seperti memasukan *fullname* <br>
+* Untuk memasukan perintah lain seperti *Nama, NIM, Tempat Lahir, Umur, No Telpon,* mengikuti perintah yang sama seperti memasukan *fullname* <br>
 
 Langkah kali ini saya akan menampilkan output yang diminta oleh Dosen. <br>
 Output pertama yang di minta Dosen adalah menampilkan salam, yaitu dengan mengetikkan syntax / source code berikut : 
@@ -81,8 +81,12 @@ Hasil source code diatas adalah seperti gambar dibawah ini : <br>
 ![image](https://user-images.githubusercontent.com/73059731/98124456-cbc59600-1ee5-11eb-9972-e2825eff2e23.png) <br>
 * Langkah terakhir menampilkan semua hasil dari inputan diatas. Dengan mengetikan source code berikut : <br>
 ``` python
-print "Let me introduce my self My name is",nama,"but you can call me",panggilan,
-".My NIM is",nim,"I was born in",ttl,"and I am",tl,"years old. I am very glad if you want to invite my house in",alamat,".So, don't forget to call me before with the number",telpone,
+print ("Let me introduce my self. My name is",namalengkap,\
+", but you can call me",panggilan,". My NIM is ",nim,\
+". I was born in",ttl,\
+"and I am ",umur,"years old",\
+"i am very glad if you want to invite my house in",alamat,\
+". So, don't forget to call me before with the number",telepone,".")
 ```
 Keterangan : <br>
 * Fungsi huruf **f** pada perintah *print(f"....")* adalah fungsi print atau bisa memudahkan program dalam mencetak statement dalam suatu baris dibandingkan dengan metode yang lama yaitu memisahkan string dan variable dengan symbol koma ( , ) atau plus ( + ) <br>
