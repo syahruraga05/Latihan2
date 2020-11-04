@@ -208,7 +208,7 @@ print('{0:>3}{1:>16})'.format(10, 10 ** 10))
 ```
 <br>
 Saat ini saya akan menjelaskan satu persatu dari syntax yang diberikan oleh Dosen <br>
-Tugas yang di berikan oleh Dosen bisa di temukan dengan link berikut : [lab1-2](https://github.com/syahruraga05/Latihan2/blob/master/lab1-2.py) <br>
+Tugas yang di berikan oleh Dosen bisa di temukan dengan link berikut : [lab1-2](https://github.com/syahruraga05/Latihan2/blob/master/lab1-2.py)
 
 1. **String Format 1** <br><br>
 Pada syntax / source code string format 1 akan menampilkan output berupa 2 outputan. <br>
